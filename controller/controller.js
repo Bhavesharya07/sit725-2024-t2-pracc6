@@ -1,4 +1,3 @@
-// controller.js
 const Appointment = require('../model/model'); 
 
 module.exports.bookAppointment = (req, res) => {
